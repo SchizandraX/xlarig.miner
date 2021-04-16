@@ -1,2 +1,6 @@
 # xlarig.miner
 xlarigminer for scala XLA 
+
+EDIT POOL
+EDIT WALLET ADDRESS FOR SCALA MINER (XLA)
+EDIT MINERS NAME(OPTIONAL)
